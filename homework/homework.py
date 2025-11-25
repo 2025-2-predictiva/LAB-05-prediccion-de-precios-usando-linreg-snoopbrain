@@ -18,7 +18,7 @@
 # Los pasos que debe seguir para la construcción de un modelo de
 # pronostico están descritos a continuación.
 #
-#
+##
 # Paso 1.
 # Preprocese los datos.
 # - Cree la columna 'Age' a partir de la columna 'Year'.
